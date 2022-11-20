@@ -370,7 +370,6 @@ p {
 }
 
 .clients-li {
-
 }
 
 .clients-link {
@@ -384,23 +383,17 @@ p {
   height: 92px;
 }
 
-
-
 .clients-svg {
   fill: #afb1b8;
 }
 
 .clients-link:hover,
-.clients-link:focus
-  {
-    border: 1px solid #2196F3;
+.clients-link:focus {
+  border: 1px solid #2196f3;
 }
-.clients-link:hover .clients-svg
-  {
-    fill: #2196f3; 
+.clients-link:hover .clients-svg {
+  fill: #2196f3;
 }
-
-
 
 /*-------------Footer---------*/
 
@@ -589,7 +582,6 @@ p {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
-  
 }
 
 .portfolio-h3-p {
@@ -597,25 +589,19 @@ p {
   padding-bottom: 20px;
   padding-left: 24px;
   padding-right: 24px;
-  
 }
-
 
 .port-shadow {
   display: block;
   text-decoration: none;
 }
 .port-shadow:hover,
-.port-shadow:focus
- {
-  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 
-    0px 4px 4px rgba(0, 0, 0, 0.06),
+.port-shadow:focus {
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
     1px 4px 6px rgba(0, 0, 0, 0.16);
-    
 }
-.porfolio-item  {
+.porfolio-item {
   outline: 1px solid #eeeeee;
-  
 }
 .portfolio-img {
 }
